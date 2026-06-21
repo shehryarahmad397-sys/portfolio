@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shehryarahmad397-sys.github.io/portfolio/sitemap.xml
