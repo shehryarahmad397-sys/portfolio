@@ -1389,10 +1389,10 @@ body:hover .cursor-glow { opacity: 0.45; }
 .social-tile:nth-child(1):hover svg { color: #e1306c; }
 .social-tile:nth-child(2):hover svg { color: #0a66c2; }
 .social-tile:nth-child(3):hover svg { color: #1877f2; }
-.social-tile:nth-child(4):hover svg { color: var(--wa); }
-.social-tile--wa:hover {
-  border-color: rgba(37, 211, 102, 0.45);
-  background: rgba(37, 211, 102, 0.1);
+.social-tile:nth-child(4):hover svg { color: #fffc00; }
+.social-tile--snap:hover {
+  border-color: rgba(255, 252, 0, 0.45);
+  background: rgba(255, 252, 0, 0.08);
 }
 
 /* FOOTER */
